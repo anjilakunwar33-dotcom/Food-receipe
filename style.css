@@ -1,0 +1,407 @@
+/*Reset */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+/* Body */
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f8f8f8;
+    color: #333;
+    line-height: 1.6;
+}
+
+/* Header */
+header {
+    background-color: #8b0000;
+    color: white;
+    padding: 20px;
+    text-align: left;
+}
+
+/* Navigation – LEFT aligned */
+nav ul {
+    list-style: none;
+    margin-top: 10px;
+}
+
+nav ul li {
+    display: inline-block;
+    margin-right: 20px;
+}
+
+nav ul li a {
+    color: white;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+nav ul li a:hover {
+    text-decoration: underline;
+}
+
+/* Main content – LEFT */
+main {
+    padding: 30px;
+    text-align: left;
+}
+
+/* Headings */
+main h2,
+main h3 {
+    color: #8b0000;
+    margin: 15px 0 10px;
+}
+
+/* Paragraph */
+main p {
+    margin: 10px 0;
+}
+
+/* Image */
+main img {
+    display: block;
+    margin: 15px 0;
+    width: 600px;
+    max-width: 100%;
+    border-radius: 8px;
+}
+
+/* Footer */
+footer {
+    background-color: #333;
+    color: white;
+    padding: 25px;
+    margin-top: 30px;
+    text-align: left;
+}
+
+/* Footer links */
+footer a {
+    color: #ffcccb;
+    text-decoration: none;
+}
+
+footer a:hover {
+    text-decoration: underline;
+}
+
+/* Sitemap heading */
+footer h1 {
+    font-size: 20px;
+    margin: 20px 0 10px;
+}
+
+/* Sitemap list */
+footer ul {
+    list-style: square;
+    margin-left: 20px;
+}
+
+footer ul li {
+    margin: 6px 0;
+}
+
+/* Nested list */
+footer ul ul {
+    list-style: circle;
+    margin-left: 20px;
+}
+/* Body */
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f8f8f8;
+    color: #333;
+    line-height: 1.6;
+}
+
+/* Header */
+header {
+    background-color: #8b0000;
+    color: white;
+    padding: 20px;
+}
+
+/* Navigation */
+nav ul {
+    list-style: none;
+    margin-top: 10px;
+}
+
+nav ul li {
+    display: inline;
+    margin-right: 15px;
+}
+
+nav ul li a {
+    color: white;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+nav ul li a:hover {
+    text-decoration: underline;
+}
+
+/* Main content – LEFT aligned */
+main {
+    padding: 30px;
+    text-align: left;
+}
+
+/* Headings */
+main h2 {
+    color: #8b0000;
+    margin: 20px 0 10px;
+}
+
+/* Lists */
+main ul,
+main ol {
+    margin-left: 20px;
+}
+
+main li {
+    margin: 6px 0;
+}
+
+/* Image */
+main img {
+    display: block;
+    margin-top: 15px;
+    width: 600px;
+    max-width: 100%;
+    border-radius: 8px;
+}
+
+/* Footer */
+footer {
+    background-color: #333;
+    color: white;
+    padding: 20px;
+    margin-top: 30px;
+}
+
+/* Footer links */
+footer a {
+    color: #ffcccb;
+    text-decoration: none;
+}
+footer a:hover {
+    text-decoration: underline;
+}
+/* Reset default spacing */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+/* Body */
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f7f7f7;
+    color: #333;
+    line-height: 1.6;
+}
+
+/* Header */
+header {
+    background-color: #8b0000;
+    color: white;
+    padding: 20px;
+}
+
+/* Navigation */
+nav ul {
+    list-style: none;
+    margin-top: 10px;
+}
+
+nav ul li {
+    display: inline;
+    margin-right: 15px;
+}
+
+nav ul li a {
+    color: white;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+nav ul li a:hover {
+    text-decoration: underline;
+}
+
+/* Main content – LEFT side */
+main {
+    padding: 30px;
+    text-align: left;
+}
+
+/* Section headings */
+main h2 {
+    color: #8b0000;
+    margin: 20px 0 10px;
+}
+
+/* Lists */
+main ul,
+main ol {
+    margin-left: 20px;
+}
+
+main li {
+    margin: 6px 0;
+}
+
+/* Image */
+main img {
+    display: block;
+    margin-top: 15px;
+    width: 600px;
+    max-width: 100%;
+    border-radius: 8px;
+}
+
+/* Footer */
+footer {
+    background-color: #333;
+    color: white;
+    padding: 20px;
+    margin-top: 30px;
+}
+
+/* Footer links */
+footer a {
+    color: #ffcccb;
+    text-decoration: none;
+}
+
+footer a:hover {
+    text-decoration: underline;
+}
+/* General Page Style */
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f9f9f9;
+    color: #333;
+}
+
+/* Header */
+header {
+    background-color: #8b0000;
+    color: white;
+    padding: 20px;
+    text-align: center;
+}
+
+/* Navigation */
+nav ul {
+    list-style: none;
+    padding: 0;
+}
+
+nav ul li {
+    display: inline;
+    margin: 0 15px;
+}
+
+nav ul li a {
+    color: white;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+nav ul li a:hover {
+    text-decoration: underline;
+}
+
+/* Main Content */
+main {
+    padding: 20px;
+    max-width: 900px;
+    margin: auto;
+    background-color: white;
+}
+
+h2 {
+    color: #8b0000;
+}
+
+/* Images */
+img {
+    margin: 10px 0;
+    border-radius: 8px;
+}
+
+/* Footer */
+footer {
+    background-color: #333;
+    color: white;
+    text-align: center;
+    padding: 15px;
+    margin-top: 20px;
+}
+
+footer a {
+    color: #ffcccb;
+    text-decoration: none;
+}
+
+footer a:hover {
+    text-decoration: underline;
+}
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: #f2f2f2;
+    margin: 0;
+    padding: 20px;
+}
+
+/* Heading left aligned */
+h1 {
+    text-align: left;
+    color: #333;
+}
+
+/* Form LEFT side */
+form {
+    background-color: #ffffff;
+    width: 320px;
+    margin: 0;              /* ← center हटायो */
+    padding: 20px;
+    border-radius: 6px;
+    box-shadow: 0 0 10px rgba(0,0,0,0.1);
+}
+
+/* Labels */
+label {
+    font-weight: bold;
+}
+
+/* Inputs */
+input, textarea {
+    width: 100%;
+    padding: 8px;
+    margin-top: 5px;
+    margin-bottom: 10px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+}
+
+/* Button */
+input[type="submit"] {
+    background-color: #4CAF50;
+    color: white;
+    border: none;
+    cursor: pointer;
+}
+
+input[type="submit"]:hover {
+    background-color: #45a049;
+}
